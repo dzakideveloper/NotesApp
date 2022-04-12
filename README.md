@@ -17,7 +17,7 @@ RPL IDN Learning, Sourch Code Project 6
 - Create Read Update Delete ROOM Database
 - DB Browser For SQLite
 - Restored Deleted Data
-- Sort Data by Priority (EnumClass)
+- Sort Data By Priority (EnumClass)
 - MVVM Architecture
 - ViewModel
 

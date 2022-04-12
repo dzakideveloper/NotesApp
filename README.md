@@ -22,7 +22,7 @@ RPL IDN Learning, Sourch Code Project 6
 - ViewModel
 
 ## This is the result of my learn
-| <img src="/images/ke1.jpeg"> | <img src="/images/ke2.jpeg"> | <img src="/images/ke3.jpeg"> |
+| <img src="/images/ke1.jpeg"> | <img src="/images/keh2.jpeg"> | <img src="/images/ke3.jpeg"> |
 | :--: | :--: | :--: |
 
 | <img src="/images/ke4.jpeg"> | <img src="/images/ke5.jpeg"> | <img src="/images/ke6.jpeg"> |
